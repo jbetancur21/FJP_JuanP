@@ -1,0 +1,218 @@
+/* Three columns side by side */
+.column {
+    float: left;
+    width: 50%;
+    margin-bottom: 16px;
+    padding: 0 50px;
+  }
+  
+  /* Display the columns below each other instead of side by side on small screens */
+  @media screen and (max-width: 650px) {
+    .column {
+      width: 100%;
+      display: block;
+    }
+  }
+  
+  /* Add some shadows to create a card effect */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Some left and right padding inside the container */
+  .container {
+    padding: 0 16px;
+  }
+  
+  /* Clear floats */
+  .container::after, .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+    
+  .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #1f7a8c;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  .button:hover {
+    background-color: #022b3a;
+  }
+
+  img{
+      width: 30%;
+      height: auto;
+      margin-left: 33%;
+  }
+
+
+  /*FORMULARIOS*/
+  
+/* Bordered form */
+form {
+    border: 3px solid #f1f1f1;
+  }
+  
+  /* Full-width inputs */
+  input[type=text], input[type=password], input[type=email], input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #1f7a8c;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Extra style for the cancel button (red) */
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+
+  
+  /* Add padding to containers */
+  .container {
+    padding: 16px;
+  }
+  
+  /* The "Forgot password" text */
+  span.psw {
+    float: right;
+    padding-top: 16px;
+  }
+  /* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    padding-top: 60px;
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 5px auto; /* 15% from the top and centered */
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+    /* Position it in the top right corner outside of the modal */
+    position: absolute;
+    right: 25px;
+    top: 0;
+    color: #000;
+    font-size: 35px;
+    font-weight: bold;
+  }
+  
+  /* Close button on hover */
+  .close:hover,
+  .close:focus {
+    color: red;
+    cursor: pointer;
+  }
+  
+  /* Add Zoom Animation */
+  .animate {
+    -webkit-animation: animatezoom 0.6s;
+    animation: animatezoom 0.6s
+  }
+  
+  @-webkit-keyframes animatezoom {
+    from {-webkit-transform: scale(0)}
+    to {-webkit-transform: scale(1)}
+  }
+  
+  @keyframes animatezoom {
+    from {transform: scale(0)}
+    to {transform: scale(1)}
+  }
+  
+  /* Change styles for span and cancel button on extra small screens */
+  @media screen and (max-width: 300px) {
+    span.psw {
+      display: block;
+      float: none;
+    }
+    .cancelbtn {
+      width: 100%;
+    }
+  }
+
+
+a{
+    cursor: pointer;
+}
+
+  /* Dropdown button on hover & focus */
+  .dropbtn:hover, .dropbtn:focus {
+    background-color: #022b3a;
+  }
+  
+  /* The container <div> - needed to position the dropdown content */
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {background-color: #ddd}
+  
+  /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+  .show {display:block;}
+
+  .cantidad-dinero{
+    margin-left: 5%;
+  }

@@ -1,0 +1,747 @@
+jbetancur;Efectivo;1;Deuda Universidad;;310000;Acreditar;;;Comun
+jbetancur;Efectivo;2;Deuda pendiente de mi mama, el dinero esta en efectivo,pero pertenece a Nequi;2019-12-22;100000;Acreditar;;;Comun
+jbetancur;Nequi;3;Parte numero uno de el prestamo de la universidad;2019-12-23;600000;Debitar;;;Comun
+jbetancur;Nequi;4;Servicios UNE;2019-12-23;80000;Debitar;;;Comun
+jbetancur;Efectivo;5;Regalo de la abuela Gilma y Gerardo  SE ESPERA LA DEVUELTA;2019-12-25;100000;Debitar;;;Comun
+jbetancur;Nequi;6;Tostao;2019-12-26;3200;Debitar;;;Comun
+jbetancur;Efectivo;7;Gasolina y Tostao;2019-12-27;30000;Debitar;;;Comun
+jbetancur;Nequi;8;Regalo de Navidad para mi mama;2019-12-31;80000;Debitar;;;Comun
+jbetancur;Efectivo;9;Devuelta del regalo de Navidad de Gilma,Gerardo y Gloria;2019-12-31;20000;Acreditar;;;Comun
+jbetancur;Efectivo;10;Boxer amarillo y Gasolina;2019-12-31;20000;Debitar;;;Comun
+jbetancur;Nequi;11;Segunda Parte de la Universidad NOTA:En realidad son 588000, pero 75000 son para Diana de una deuda de Alejandro Calderon;2020-01-01;513000;Debitar;;;Comun
+jbetancur;Nequi;12;Prestamo para Marcela Calderon;2020-01-02;200000;Debitar;;;Comun
+jbetancur;Nequi;13;Recarga civica;2020-01-02;3053;Debitar;;;Comun
+jbetancur;Nequi;14;Regalo de Navidad para mi Papa;2020-01-02;62844;Debitar;;;Comun
+jbetancur;Nequi;15;Nomina 5 de Enero;2020-01-03;612916;Acreditar;;;Comun
+jbetancur;Efectivo;16;Primer Gasto viaje a Guatape;2020-01-03;200000;Debitar;;;Comun
+jbetancur;Efectivo;17;Gasolina;2020-01-03;10000;Debitar;;;Comun
+jbetancur;Efectivo;18;Pago Prestamo Marcela Calderon;2020-01-03;200000;Acreditar;;;Comun
+jbetancur;Nequi;19;Segundo Gasto viaje a Guatape;2020-01-04;200000;Debitar;;;Comun
+jbetancur;Efectivo;20;Devuelta del viaje a Guatape;2020-01-07;100000;Acreditar;;;Comun
+jbetancur;Nequi;21;Tostao;2020-01-08;4000;Debitar;;;Comun
+jbetancur;Nequi;22;Mocaccino;2020-01-09;12600;Debitar;;;Comun
+jbetancur;Nequi;23;Tostao;2020-01-09;3900;Debitar;;;Comun
+jbetancur;Nequi;24;Prestamo Civica Mama;2020-01-10;10000;Debitar;;;Comun
+jbetancur;Efectivo;25;Regalo del papito;2020-01-10;20000;Acreditar;;;Comun
+jbetancur;Efectivo;26;Pago recarga civica;2020-01-10;10000;Acreditar;;;Comun
+jbetancur;Efectivo;27;CDT ENERO;2020-01-10;3000000;Debitar;;;Comun
+jbetancur;Efectivo;28;Ajuste del CDT con mi mama, la Plata sale de Nequi;2020-01-10;120000;Acreditar;;;Comun
+jbetancur;Efectivo;29;Primer Pago deuda semestre 2020-1;2020-01-10;200000;Acreditar;;;Comun
+jbetancur;Nequi;30;Prestamo Civica Mama;2020-01-13;10000;Debitar;;;Comun
+jbetancur;Efectivo;31;Pizza;2020-01-13;30000;Debitar;;;Comun
+jbetancur;Nequi;32;Recarga civica;2020-01-16;6000;Debitar;;;Comun
+jbetancur;Nequi;33;Transferencia para el gordo;2020-01-19;50000;Debitar;;;Comun
+jbetancur;Nequi;34;Mix Shakes Arkadia;2020-01-19;29900;Debitar;;;Comun
+jbetancur;Nequi;35;Salario Enero 20;2020-01-20;1305514;Acreditar;;;Comun
+jbetancur;Nequi;36;Deuda a mama;2020-01-21;120000;Debitar;;;Comun
+jbetancur;Nequi;37;Recarga celular;2020-01-21;7000;Debitar;;;Comun
+jbetancur;Nequi;38;Gastos varios;2020-01-21;20000;Debitar;;;Comun
+jbetancur;Nequi;39;Civica;2020-01-22;10000;Debitar;;;Comun
+jbetancur;Nequi;40;Foto cedula;2020-01-23;9000;Debitar;;;Comun
+jbetancur;Nequi;41;civica;2020-01-23;5000;Debitar;;;Comun
+jbetancur;Nequi;42;Recarga a mi papa;2020-01-23;26000;Debitar;;;Comun
+jbetancur;Nequi;43;Tostao;2020-01-24;3900;Debitar;;;Comun
+jbetancur;Nequi;44;Recarga civica mama;2020-01-24;10000;Debitar;;;Comun
+jbetancur;Nequi;45;Subway;2020-01-25;40000;Debitar;;;Comun
+jbetancur;Nequi;46;Deuda pendiente de mi mama(civica y comida del 24/01/2020;2020-01-25;60000;Acreditar;;;Comun
+jbetancur;Nequi;47;Cafe y gastos varios;2020-01-27;30000;Debitar;;;Comun
+jbetancur;Nequi;48;Cuido de Koko,Gasolina y otros;2020-01-28;70000;Debitar;;;Comun
+jbetancur;Nequi;49;Servicios UNE;2020-01-28;80000;Debitar;;;Comun
+jbetancur;Nequi;50;Soat del carro;2020-01-30;397000;Debitar;;;Comun
+jbetancur;Nequi;51;Intereses de las cesantias;2020-01-30;69063;Acreditar;;;Comun
+jbetancur;Nequi;52;Despedida Diana y Barberia;2020-01-31;120000;Debitar;;;Comun
+jbetancur;Nequi;53;Civica Recarga;2020-01-31;3882;Debitar;;;Comun
+jbetancur;Nequi;54;Deuda del carro 1;2020-02-01;132000;Debitar;;;Comun
+jbetancur;Nequi;55;Deuda SOAT mama†;2020-02-01;132000;Acreditar;;;Comun
+jbetancur;Nequi;56;Gastos varios(universidad, gasolina,etc);2020-02-02;17000;Debitar;;;Comun
+jbetancur;Nequi;57;Torta;2020-02-02;20000;Debitar;;;Comun
+jbetancur;Nequi;58;Deuda del carro 2;2020-02-02;23000;Debitar;;;Comun
+jbetancur;Nequi;59;San Peregrino 1(civica mama†);2020-02-03;10000;Debitar;;;Comun
+jbetancur;Nequi;60;Subway;2020-02-03;40000;Debitar;;;Comun
+jbetancur;Nequi;61;civica;2020-02-03;10000;Debitar;;;Comun
+jbetancur;Nequi;62;Regalo papa†;2020-02-03;95000;Debitar;;;Comun
+jbetancur;Nequi;63;;2020-02-04;120000;Debitar;;;Comun
+jbetancur;Nequi;64;Reembolso aliexpress;2020-02-05;8661;Acreditar;;;Comun
+jbetancur;Nequi;65;Pago nomina Febrero 5;2020-02-05;647057;Acreditar;;;Comun
+jbetancur;Nequi;66;Recarga celular;2020-02-05;4509;Debitar;;;Comun
+jbetancur;Nequi;67;Recarga Civica;2020-02-06;4600;Debitar;;;Comun
+jbetancur;Nequi;68;Civica Mama;2020-02-07;20000;Debitar;;;Comun
+jbetancur;Nequi;69;Cosechas;2020-02-07;11200;Debitar;;;Comun
+jbetancur;Nequi;70;Civica Mama;2020-02-08;160000;Debitar;;;Comun
+jbetancur;Nequi;71;Factura Movistar (mama);2020-02-09;31139;Debitar;;;Comun
+jbetancur;Nequi;72;Recarga Civica mama;2020-02-10;22000;Debitar;;;Comun
+jbetancur;Nequi;73;Recarga Civica;2020-02-10;4710;Debitar;;;Comun
+jbetancur;Nequi;74;Recarga Celular;2020-02-10;10000;Debitar;;;Comun
+jbetancur;Nequi;75;Recarga Civica;2020-02-10;7065;Debitar;;;Comun
+jbetancur;Nequi;76;Kipes;2020-02-10;10000;Debitar;;;Comun
+jbetancur;Nequi;77;Cosechas;2020-02-10;9200;Debitar;;;Comun
+jbetancur;Nequi;78;Recarga Civica;2020-02-13;7065;Debitar;;;Comun
+jbetancur;Nequi;79;Cosechas;2020-02-14;6100;Debitar;;;Comun
+jbetancur;Nequi;80;Recarga Civica;2020-02-14;7065;Debitar;;;Comun
+jbetancur;Nequi;81;Recarga Laura;2020-02-15;5000;Debitar;;;Comun
+jbetancur;Nequi;82;Parte del CDT(Verificar valor de este);2020-02-17;600000;Debitar;;;Comun
+jbetancur;Nequi;83;Cosechas;2020-02-17;7500;Debitar;;;Comun
+jbetancur;Nequi;84;Recarga Civica;2020-02-17;10000;Debitar;;;Comun
+jbetancur;Nequi;85;CDT;2020-02-18;250000;Debitar;;;Comun
+jbetancur;Nequi;86;Recarga civica;2020-02-18;7065;Debitar;;;Comun
+jbetancur;Nequi;87;Sostenimiento;2020-02-19;30000;Debitar;;;Comun
+jbetancur;Nequi;88;Civica;2020-02-19;10000;Debitar;;;Comun
+jbetancur;Nequi;89;Deuda del gordo con Diana(pendiente del pago de la universidad);2020-02-20;75000;Debitar;;;Comun
+jbetancur;Nequi;90;Nomina Febrero 20;2020-02-20;649967;Acreditar;;;Comun
+jbetancur;Nequi;91;Barberia;2020-02-20;18000;Debitar;;;Comun
+jbetancur;Nequi;92;Cosechas;2020-02-20;7500;Debitar;;;Comun
+jbetancur;Nequi;93;Cosechas;2020-02-21;6100;Debitar;;;Comun
+jbetancur;Nequi;94;Recarga civica;2020-02-21;7065;Debitar;;;Comun
+jbetancur;Nequi;95;Cobro de tarjeta;2020-02-21;2000;Debitar;;;Comun
+jbetancur;Nequi;96;Recarga celular;2020-02-22;10000;Debitar;;;Comun
+jbetancur;Nequi;97;Kibes;2020-02-24;10000;Debitar;;;Comun
+jbetancur;Nequi;98;Sostenimiento;2020-02-24;30000;Debitar;;;Comun
+jbetancur;Nequi;99;Sostenimiento;2020-02-25;20000;Debitar;;;Comun
+jbetancur;Nequi;100;Civica;2020-02-25;7065;Debitar;;;Comun
+jbetancur;Nequi;101;Recarga civica;2020-02-26;10000;Debitar;;;Comun
+jbetancur;Nequi;102;Recarga civica;2020-02-26;2355;Debitar;;;Comun
+jbetancur;Nequi;103;Ajuste de deuda;2020-02-27;10000;Debitar;;;Comun
+jbetancur;Nequi;104;Recarga a Laura;2020-02-28;6800;Debitar;;;Comun
+jbetancur;Nequi;105;Recarga Civica;2020-02-28;7065;Debitar;;;Comun
+jbetancur;Nequi;106;Gastos a San Peregrino;2020-03-01;50000;Debitar;;;Comun
+jbetancur;Nequi;107;Productos pelo,Burbujas,Resto del paseo a San Peregrino;2020-03-01;190000;Debitar;;;Comun
+jbetancur;Nequi;108;Recarga;2020-03-01;10000;Debitar;;;Comun
+jbetancur;Nequi;109;Recarga Civica;2020-03-03;7065;Debitar;;;Comun
+jbetancur;Nequi;110;Reembolso mitad de los audifonos;2020-03-03;33738;Debitar;;;Comun
+jbetancur;Nequi;111;winplay;2020-03-04;10000;Debitar;;;Comun
+jbetancur;Nequi;112;Servicios y sostenimiento;2020-03-04;150000;Debitar;;;Comun
+jbetancur;Nequi;113;Pago movistar mama;2020-03-04;31217;Debitar;;;Comun
+jbetancur;Nequi;114;Popsy;2020-03-05;12800;Debitar;;;Comun
+jbetancur;Nequi;115;Nomina marzo 5 2020;2020-03-05;658699;Acreditar;;;Comun
+jbetancur;Nequi;116;Recarga civica;2020-03-06;10907;Debitar;;;Comun
+jbetancur;Nequi;117;Sostenimiento para vivir solo;2020-03-07;100000;Debitar;;;Comun
+jbetancur;Nequi;118;Sostenimiento para vivir solo;2020-03-07;100000;Acreditar;;;Comun
+jbetancur;Nequi;119;Duber (transferencia de mi mama);2020-03-08;26000;Debitar;;;Comun
+jbetancur;Nequi;120;Recarga Celular;2020-03-08;10000;Debitar;;;Comun
+jbetancur;Nequi;121;Sostenimiento;2020-03-09;30000;Debitar;;;Comun
+jbetancur;Nequi;122;Barberia;2020-03-09;20500;Debitar;;;Comun
+jbetancur;Nequi;123;Jorge;2020-03-11;5000;Acreditar;;;Comun
+jbetancur;Nequi;124;Gasolina;2020-03-12;20000;Debitar;;;Comun
+jbetancur;Nequi;125;Gasolina;2020-03-13;30000;Debitar;;;Comun
+jbetancur;Nequi;126;Gasolina;2020-03-14;30000;Debitar;;;Comun
+jbetancur;Nequi;127;Recarga Laura;2020-03-14;5000;Debitar;;;Comun
+jbetancur;Nequi;128;Recarga celular;2020-03-14;10000;Debitar;;;Comun
+jbetancur;Nequi;129;Transferencia a Duber(Mi mama)_Anotado en las deudas;2020-03-16;46500;Debitar;;;Comun
+jbetancur;Nequi;130;Recarga Celular;2020-03-16;10000;Debitar;;;Comun
+jbetancur;Nequi;131;Jorge;2020-03-17;2000;Debitar;;;Comun
+jbetancur;Efectivo;132;Cuota universidad;2020-03-19;200000;Acreditar;;;Comun
+jbetancur;Nequi;133;Pago nomina Marzo 20_2020;2020-03-20;649968;Acreditar;;;Comun
+jbetancur;Nequi;134;Impuesto vehicular(Parte de papa);2020-03-20;48500;Debitar;;;Comun
+jbetancur;Nequi;135;Impuesto vehicular(Parte de mama);2020-03-20;48500;Debitar;;;Comun
+jbetancur;Nequi;136;Impuesto vehicular(Mi parte);2020-03-20;48500;Debitar;;;Comun
+jbetancur;Nequi;137;Pizza;2020-03-20;39000;Debitar;;;Comun
+jbetancur;Efectivo;138;Mercado(DEUDA PAPA);2020-03-21;260000;Debitar;;;Comun
+jbetancur;Nequi;139;Pago del crediagil(Deuda de el);2020-03-21;106000;Debitar;;;Comun
+jbetancur;Nequi;140;Funcion de Cajero con mi papa(ENTRADA);2020-03-23;13000;Acreditar;;;Comun
+jbetancur;Efectivo;141;Prestamo para mama;;;;;;Comun
+jbetancur;Nequi;142;DEUDA MAMA_2;2020-03-27;110000;Debitar;;;Comun
+jbetancur;Nequi;143;Tatiana Tenis:DEUDA MAMA;2020-03-27;80000;Debitar;;;Comun
+jbetancur;Nequi;144;Deuda del carro(PRESTAMO PARA ALEX);2020-03-28;156000;Debitar;;;Comun
+jbetancur;Nequi;145;Deuda del carro;2020-03-28;156000;Debitar;;;Comun
+jbetancur;Nequi;146;Deudad de mi mama;2020-03-28;311000;Acreditar;;;Comun
+jbetancur;Nequi;147;Pago Seguro del Carro FALABELLA(PARTE DE MI PAPaÅ);2020-03-30;34000;Debitar;;;Comun
+jbetancur;Nequi;148;Pago Seguro del Carro FALABELLA(PARTE DE MI MAMaÅ);2020-03-30;34000;Debitar;;;Comun
+jbetancur;Nequi;149;Pago Seguro del Carro FALABELLA;2020-03-30;34000;Debitar;;;Comun
+jbetancur;Nequi;150;Servicios de UNE;2020-03-30;82061;Debitar;;;Comun
+jbetancur;Efectivo;151;DEUDA TOTAL DE MI MAMA;2020-03-31;51000;Acreditar;;;Comun
+jbetancur;Nequi;152;DEUDA MAMA;2020-04-02;62000;Debitar;;;Comun
+jbetancur;Nequi;153;Deuda mama_PAGO MOVISTAR;2020-04-02;33000;Debitar;;;Comun
+jbetancur;Nequi;154;Deuda mama_JFK;2020-04-02;275000;Debitar;;;Comun
+jbetancur;Nequi;155;NOMINA 5 DE ABRIL;2020-04-03;598541;Acreditar;;;Comun
+jbetancur;Nequi;156;DEUDA PENDIENTE DE MI PAPA;2020-04-03;50000;Acreditar;;;Comun
+jbetancur;Efectivo;157;DEUDA MAMA_GASEOSA;2020-04-03;3000;Debitar;;;Comun
+jbetancur;Nequi;158;DEUDA PENDIENTE DE MI PAPA;2020-04-03;654000;Acreditar;;;Comun
+jbetancur;Efectivo;159;Invitacion de mi papa;2020-04-03;50000;Debitar;;;Comun
+jbetancur;Efectivo;160;Deuda de mi mama;2020-04-03;37500;Debitar;;;Comun
+jbetancur;Efectivo;161;DEUDA DE MI MAMA;2020-04-03;370000;Acreditar;;;Comun
+jbetancur;Efectivo;162;Salida de la cuarentena_(Cable,jarabe,gasolina);2020-04-03;40000;Debitar;;;Comun
+jbetancur;Efectivo;163;DEUDA DE MI MAMA;2020-04-06;45000;Acreditar;;;Comun
+jbetancur;Efectivo;164;Favor de Laura;2020-04-08;53400;Acreditar;;;Comun
+jbetancur;Nequi;165;Favor a Laura;2020-04-08;53400;Debitar;;;Comun
+jbetancur;Efectivo;166;Farmacia;2020-04-09;12000;Debitar;;;Comun
+jbetancur;Efectivo;167;Marcadores para el tablero y otros;2020-04-10;24000;Debitar;;;Comun
+jbetancur;Efectivo;168;Deuda de mi mama;2020-04-10;20000;Debitar;;;Comun
+jbetancur;Efectivo;169;Areapas de hugo;2020-04-10;30000;Debitar;;;Comun
+jbetancur;Efectivo;170;Jarabe de Koko;2020-04-10;10000;Debitar;;;Comun
+jbetancur;Efectivo;171;Pago Deuda Universidad;2020-04-13;200000;Acreditar;;;Comun
+jbetancur;Efectivo;172;Baa±era Jhon Fredy;2020-04-17;55000;Debitar;;;Comun
+jbetancur;Efectivo;173;Administracion abuela;2020-04-19;4000;Acreditar;;;Comun
+jbetancur;Nequi;174;Factura movistar;2020-04-19;32990;Debitar;;;Comun
+jbetancur;Nequi;175;Administracion de la abuela;2020-04-19;44600;Debitar;;;Comun
+jbetancur;Efectivo;176;Deuda de mi mama;2020-04-19;24000;Acreditar;;;Comun
+jbetancur;Efectivo;177;Domicilio cuadritos;2020-04-21;10000;Debitar;;;Comun
+jbetancur;Nequi;178;HAMBURGUESAS;2020-04-23;47000;Debitar;;;Comun
+jbetancur;Efectivo;179;Plata para el cafe;2020-04-23;37500;Acreditar;;;Comun
+jbetancur;Nequi;180;CAFE EN SOBRES;2020-04-24;90000;Debitar;;;Comun
+jbetancur;Nequi;181;SUMINISTROS;2020-04-24;20000;Debitar;;;Comun
+jbetancur;Efectivo;182;Prestamo para mama;2020-04-27;20000;Debitar;;;Comun
+jbetancur;Efectivo;183;Chapstick;2020-04-27;11600;Debitar;;;Comun
+jbetancur;Nequi;184;Tapabocas;2020-04-28;58254;Debitar;;;Comun
+jbetancur;Nequi;185;SERVICIOS UNE;2020-04-28;82002;Debitar;;;Comun
+jbetancur;Nequi;186;NOMINA 20 DE ABRIL;2020-04-28;641536;Acreditar;;;Comun
+jbetancur;Efectivo;187;Abono deuda mama;2020-05-02;30000;Acreditar;;;Comun
+jbetancur;Efectivo;188;Prestamo mama;2020-05-02;80000;Debitar;;;Comun
+jbetancur;Efectivo;189;Cafe Tostao;2020-05-02;16500;Debitar;;;Comun
+jbetancur;Efectivo;190;Abono deuda mama;2020-05-03;70000;Acreditar;;;Comun
+jbetancur;Nequi;191;Deuda mama;2020-05-05;26000;Debitar;;;Comun
+jbetancur;Nequi;192;Desayuno dia de la madre;2020-05-05;85700;Debitar;;;Comun
+jbetancur;Nequi;193;NOMINA 05 DE MAYO;2020-05-05;620000;Acreditar;;;Comun
+jbetancur;Efectivo;194;Abono deuda mama(Seguro del carro y otro prestamo);2020-05-05;60000;Acreditar;;;Comun
+jbetancur;Nequi;195;Seguro del carro;2020-05-05;103000;Debitar;;;Comun
+jbetancur;Efectivo;196;CERVEZAS;2020-05-06;9000;Debitar;;;Comun
+jbetancur;Efectivo;197;Prestamo a mi mama;2020-05-06;407000;Debitar;;;Comun
+jbetancur;Efectivo;198;PASTILLAS PARA KOKO;2020-05-06;41000;Debitar;;;Comun
+jbetancur;Efectivo;199;Deuda del Seguro del carro;2020-05-07;34000;Acreditar;;;Comun
+jbetancur;Efectivo;200;Deuda Vieja de mi papa;2020-05-07;50000;Acreditar;;;Comun
+jbetancur;Efectivo;201;Liga del Papito;2020-05-07;20000;Acreditar;;;Comun
+jbetancur;Efectivo;202;Prestamo mama(Equivale a 80.000);2020-05-07;77300;Debitar;;;Comun
+jbetancur;Efectivo;203;Se abonan 23000 de la deuda de movistar de mi mama;;;;;;Comun
+jbetancur;Efectivo;204;Abono deuda de la universidad;2020-05-08;200000;Acreditar;;;Comun
+jbetancur;Efectivo;205;Prestamo de mi mama para la peluquera≠a;2020-05-08;80000;Acreditar;;;Comun
+jbetancur;Efectivo;206;Prestamo de mi mama;2020-05-08;407000;Acreditar;;;Comun
+jbetancur;Nequi;207;Factura de Movistar Juan Pablo;2020-05-08;28598;Debitar;;;Comun
+jbetancur;Nequi;208;Factura de Movistar de mi mama;2020-05-08;28000;Debitar;;;Comun
+jbetancur;Efectivo;209;Regalo del da≠a de la madre;2020-05-09;200000;Debitar;;;Comun
+jbetancur;Nequi;210;Celular de la abuela;2020-05-09;90000;Debitar;;;Comun
+jbetancur;Efectivo;211;Devuelta de la abuela;2020-05-09;5000;Debitar;;;Comun
+jbetancur;Efectivo;212;Gasolona para el carro;2020-05-09;5000;Debitar;;;Comun
+jbetancur;Efectivo;213;Cabanos de Koko;2020-05-09;5000;Debitar;;;Comun
+jbetancur;Efectivo;214;Granizado de licor;2020-05-10;10000;Debitar;;;Comun
+jbetancur;Nequi;215;Deuda mama_Para Pagar Zapatos;2020-05-12;58000;Debitar;;;Comun
+jbetancur;Efectivo;216;Deuda de mi mama;2020-05-13;58000;Acreditar;;;Comun
+jbetancur;Nequi;217;Deuda de mi mama_BURATINO;2020-05-15;83000;Debitar;;;Comun
+jbetancur;Efectivo;218;Tratamiento para el pelo;2020-05-15;26500;Debitar;;;Comun
+jbetancur;Efectivo;219;Pedido de la Farmacia;2020-05-16;17100;Debitar;;;Comun
+jbetancur;Efectivo;220;ArrozPaisa;2020-05-17;29000;Debitar;;;Comun
+jbetancur;Efectivo;221;Sanduche Cubano;2020-05-20;28500;Debitar;;;Comun
+jbetancur;Nequi;222;Deuda que tenia pendiente con mi mama;2020-05-20;15000;Debitar;;;Comun
+jbetancur;Efectivo;223;Devuelta del bocatto;2020-05-20;4000;Acreditar;;;Comun
+jbetancur;Efectivo;224;Bocatto;2020-05-20;15000;Debitar;;;Comun
+jbetancur;Efectivo;225;Deuda Factura de PCFK a mi mama;2020-05-20;246000;Acreditar;;;Comun
+jbetancur;Efectivo;226;Deuda pendiente de mi mama;2020-05-20;83000;Acreditar;;;Comun
+jbetancur;Nequi;227;Pago Factura de PCFK a mi mama;2020-05-20;246000;Debitar;;;Comun
+jbetancur;Nequi;228;Nomina 20 de Mayo;2020-05-20;620038;Acreditar;;;Comun
+jbetancur;Efectivo;229;Devuelta;2020-05-21;1500;Debitar;;;Comun
+jbetancur;Efectivo;230;Deuda Pendiente de mi mama(SE PAGARON LAS DOS DEL DIA 21/05/2020);2020-05-21;100000;Acreditar;;;Comun
+jbetancur;Nequi;231;Prestamo a mi mama para Pagar en Buratino;2020-05-21;60000;Debitar;;;Comun
+jbetancur;Nequi;232;Prestamo a mi mama de consignacion a Buratino;2020-05-21;38000;Debitar;;;Comun
+jbetancur;Nequi;233;Curso creacion de paginas web;2020-05-22;72000;Debitar;;;Comun
+jbetancur;Efectivo;234;Pago de Doa±a Amparo(Devuelta del granizado);2020-05-24;20000;Acreditar;;;Comun
+jbetancur;Efectivo;235;Preparacion del Mojito;2020-05-25;38500;Debitar;;;Comun
+jbetancur;Nequi;236;Pago de los servicios de MAYO;2020-05-26;82003;Debitar;;;Comun
+jbetancur;Nequi;237;Prestamo a mi mama para el mercado de MARIO;2020-05-26;227831;Debitar;;;Comun
+jbetancur;Efectivo;238;Parte 1 deuda de mi mama del mercado de MARIO;2020-05-27;114000;Acreditar;;;Comun
+jbetancur;Efectivo;239;Deuda de mi mama con Juliana;2020-05-27;41000;Acreditar;;;Comun
+jbetancur;Efectivo;240;Deuda de mi mama con Luz Amparo Avendaa±o;2020-05-27;100000;Acreditar;;;Comun
+jbetancur;Nequi;241;Prestamos de mi mama, para pagarle a Juliana Galeano;2020-05-27;41000;Debitar;;;Comun
+jbetancur;Nequi;242;Prestamos de mi mama, para pagarle a Luz Amparo Avendaa±o Ramirez;2020-05-27;100000;Debitar;;;Comun
+jbetancur;Nequi;243;Parte 2 deuda de mi mama(LA TRANSFIERE JULIAN) del mercado de MARIO;2020-05-28;114000;Acreditar;;;Comun
+jbetancur;Efectivo;244;Rodillo de la bicicleta;2020-05-28;97500;Debitar;;;Comun
+jbetancur;Nequi;245;Compra del Xiaomi Mi Watch;2020-06-01;602000;Debitar;;;Comun
+jbetancur;Nequi;246;Pago a Corona_Vajilla de JULIAN;2020-06-01;29940;Debitar;;;Comun
+jbetancur;Efectivo;247;Leche y quipitos(x3);2020-06-03;4000;Debitar;;;Comun
+jbetancur;Efectivo;248;PRESTAMO A MI MAMA PARA IRSE HACER LAS PESTAaëAS;2020-06-04;10000;Debitar;;;Comun
+jbetancur;Nequi;249;PAGO DE LA NOMINA JUNIO 5;2020-06-05;598541;Acreditar;;;Comun
+jbetancur;Efectivo;250;Invitacion a Helado;2020-06-05;30000;Debitar;;;Comun
+jbetancur;Efectivo;251;DEUDA DE MI MAMA DE LA VAJILLA PARA JULIAN;2020-06-05;30000;Acreditar;;;Comun
+jbetancur;Efectivo;252;DEUDA QUE TENIA MI MAMaÅ DEL 04/06/2020;2020-06-05;10000;Acreditar;;;Comun
+jbetancur;Nequi;253;Seguro del Carro(TOTAL;;;;;;Comun
+jbetancur;Nequi;254;Deuda pendiente de mi papa;2020-06-06;200000;Acreditar;;;Comun
+jbetancur;Efectivo;255;Prestamo a mi papa;2020-06-06;200000;Debitar;;;Comun
+jbetancur;Efectivo;256;Consulta veterinaria de Koko;2020-06-06;30000;Debitar;;;Comun
+jbetancur;Nequi;257;DEUDA DE LA UNIVERSIDAD;2020-06-06;200000;Acreditar;;;Comun
+jbetancur;Nequi;258;Dedua de mi papa(50000 de la deuda vieja) y (34000 seguro del carro);2020-06-06;94000;Acreditar;;;Comun
+jbetancur;Nequi;259;PAGO DE FACTURA MOVISTAR;2020-06-06;29000;Debitar;;;Comun
+jbetancur;Nequi;260;PRESTAMO A MI PAPaÅ;2020-06-09;300000;Acreditar;;;Comun
+jbetancur;Efectivo;261;PRESTAMO A MI PAPaÅ;2020-06-09;300000;Debitar;;;Comun
+jbetancur;Nequi;262;COMPRAS ALIEXPRESS(ALEX,LAURA Y YO);2020-06-12;26000;Debitar;;;Comun
+jbetancur;Nequi;263;ROBO DE PAYPAL;2020-06-12;3674;Debitar;;;Comun
+jbetancur;Nequi;264;SHAMPOO PARA EL CUERPO;2020-06-12;8000;Debitar;;;Comun
+jbetancur;Efectivo;265;POLLO;2020-06-12;2000;Debitar;;;Comun
+jbetancur;Nequi;266;PAGO A MI MAMaÅ DDE MOVISTAR;2020-06-12;27758;Debitar;;;Comun
+jbetancur;Efectivo;267;SUPERMERCADO;2020-06-13;10000;Debitar;;;Comun
+jbetancur;Efectivo;268;21000 QUE NO SE DE QUE, SE PUDIERON PERDER;2020-06-14;21000;Debitar;;;Comun
+jbetancur;Efectivo;269;DEVUELTA DIA DE LA CLINICA;2020-06-14;31000;Acreditar;;;Comun
+jbetancur;Efectivo;270;AJUSTE AL SUBWAY DE MI MAMaÅ;2020-06-14;4350;Debitar;;;Comun
+jbetancur;Efectivo;271;SUBWAY  ALMUERZO CLINICA;2020-06-14;24350;Debitar;;;Comun
+jbetancur;Efectivo;272;34.000 Y 16.000 DE LAS DEUDAS DE MI MAMaÅ;2020-06-14;50000;Acreditar;;;Comun
+jbetancur;Nequi;273;GASTOS EN LA CLINICA;2020-06-14;30000;Debitar;;;Comun
+jbetancur;Efectivo;274;DEUDA DE LAURA VIDRIO TEMPLADO;2020-06-15;7000;Acreditar;;;Comun
+jbetancur;Nequi;275;PAGO DEL GORDO POR ARREGLO DEL PC;2020-06-15;50000;Acreditar;;;Comun
+jbetancur;Efectivo;276;DEUDA DE MI MAMaÅ PCFK;2020-06-15;194000;Acreditar;;;Comun
+jbetancur;Nequi;277;PAGO A MI MAMaÅ EN PCFK;2020-06-15;194000;Debitar;;;Comun
+jbetancur;Efectivo;278;ABONO FINAL DEUDA DE MI MAMA;2020-06-15;12000;Acreditar;;;Comun
+jbetancur;Efectivo;279;MI PAPaÅ ME DIO 15000 POR EL PARQUEADERO EN LA CLINICA;2020-06-15;15000;Acreditar;;;Comun
+jbetancur;Efectivo;280;Chocolatina Hershey;2020-06-18;3000;Debitar;;;Comun
+jbetancur;Efectivo;281;Tecnicomecanica del carro(DEUDA PAPaÅ) Se espera ajustar cuentas;2020-06-19;210000;Debitar;;;Comun
+jbetancur;Nequi;282;Nomina del 20 de junio;2020-06-19;598541;Acreditar;;;Comun
+jbetancur;Efectivo;283;Deuda de mi mama Arepa de hugo;2020-06-19;18000;Debitar;;;Comun
+jbetancur;Efectivo;284;Arepa de hugo;2020-06-19;18500;Debitar;;;Comun
+jbetancur;Efectivo;285;Gastos del carro;2020-06-20;202000;Debitar;;;Comun
+jbetancur;Efectivo;286;Deuda de mi papa tecnicomecanica;2020-06-20;210000;Acreditar;;;Comun
+jbetancur;Efectivo;287;Sodas y tostao;2020-06-20;22000;Debitar;;;Comun
+jbetancur;Efectivo;288;Deuda de la Abuela;2020-06-20;60000;Acreditar;;;Comun
+jbetancur;Efectivo;289;Deuda de mi mama;2020-06-20;18000;Acreditar;;;Comun
+jbetancur;Efectivo;290;Dia del Padre Regalo;2020-06-20;250000;Debitar;;;Comun
+jbetancur;Nequi;291;Prestamo a mi papa para gastos del carro;2020-06-20;50000;Debitar;;;Comun
+jbetancur;Nequi;292;Prestamo a la abuela desayuno del gordo;2020-06-20;60000;Debitar;;;Comun
+jbetancur;Nequi;293;Vidrio templado de Wilmar;2020-06-21;8920;Debitar;;;Comun
+jbetancur;Efectivo;294;Deuda de mi papa,(devuelta gastos del carro);2020-06-21;58000;Acreditar;;;Comun
+jbetancur;Efectivo;295;Parba Panaderia;2020-06-23;10000;Debitar;;;Comun
+jbetancur;Nequi;296;Escritorio;2020-06-23;520000;Debitar;;;Comun
+jbetancur;Efectivo;297;Tapabocas;2020-06-23;18000;Debitar;;;Comun
+jbetancur;Efectivo;298;Funcion de Cajero con mi papa(SALIDA);2020-06-23;13000;Debitar;;;Comun
+jbetancur;Efectivo;299;Prestamo a la abuela del perchero;2020-06-24;160000;Debitar;;;Comun
+jbetancur;Efectivo;300;Devuelta del Escritorio;2020-06-24;173000;Acreditar;;;Comun
+jbetancur;Nequi;301;Prestamo a mi mama consignacion;2020-06-25;30000;Debitar;;;Comun
+jbetancur;Nequi;302;Prestamo a mi mama consignacion;2020-06-25;98000;Debitar;;;Comun
+jbetancur;Efectivo;303;Deuda de mi papa (gastos Koko);2020-06-25;43000;Acreditar;;;Comun
+jbetancur;Nequi;304;Prima de Mitad de Aa±o;2020-06-26;678600;Acreditar;;;Comun
+jbetancur;Efectivo;305;Arepas de Hugo;2020-06-27;42500;Debitar;;;Comun
+jbetancur;Efectivo;306;Deudas pendientes de mi mama;2020-06-28;128000;Acreditar;;;Comun
+jbetancur;Efectivo;307;Gastos de KOKO;2020-06-28;57000;Debitar;;;Comun
+jbetancur;Nequi;308;Prestamo a Mama para mercado de Mario;2020-06-30;22500;Debitar;;;Comun
+jbetancur;Nequi;309;Pago de la factura UNE Junio;2020-06-30;82000;Debitar;;;Comun
+jbetancur;Nequi;310;Factura Movistar de mi mama;2020-06-30;28000;Debitar;;;Comun
+jbetancur;Efectivo;311;PIZZA;2020-07-02;36000;Debitar;;;Comun
+jbetancur;Efectivo;312;ABONO DEUDA MAMaÅ;2020-07-02;36000;Acreditar;;;Comun
+jbetancur;Nequi;313;Deuda de mi mama;2020-07-03;25000;Debitar;;;Comun
+jbetancur;Efectivo;314;Funcion Cajero de mi papa;2020-07-03;555000;Acreditar;;;Comun
+jbetancur;Nequi;315;Cajero De mi papa;2020-07-03;550000;Debitar;;;Comun
+jbetancur;Nequi;316;Parlante Echo Dot 3;2020-07-03;135000;Debitar;;;Comun
+jbetancur;Nequi;317;Consignacion a mi papa;2020-07-04;18000;Debitar;;;Comun
+jbetancur;Efectivo;318;Comida Carnes;2020-07-04;25000;Debitar;;;Comun
+jbetancur;Efectivo;319;Abono Deuda Mama;2020-07-04;14500;Acreditar;;;Comun
+jbetancur;Efectivo;320;Abono Deuda Mama_Consignacion Ana Mara≠a;2020-07-04;25000;Acreditar;;;Comun
+jbetancur;Efectivo;321;Ingreso CDT;2020-07-04;1800000;Acreditar;;;Comun
+jbetancur;Nequi;322;Retiro para cdt;2020-07-04;1800000;Debitar;;;Comun
+jbetancur;Nequi;323;Abono deuda de mi papa;2020-07-06;50000;Acreditar;;;Comun
+jbetancur;Efectivo;324;Liga del Papito;2020-07-06;20000;Acreditar;;;Comun
+jbetancur;Efectivo;325;Chapstick;2020-07-06;10000;Debitar;;;Comun
+jbetancur;Nequi;326;Pago cita medica del papito;2020-07-07;3400;Debitar;;;Comun
+jbetancur;Nequi;327;Pago de Movistar;2020-07-07;29000;Debitar;;;Comun
+jbetancur;Nequi;328;Mate;2020-07-07;43400;Debitar;;;Comun
+jbetancur;Nequi;329;Gastos del Closet;2020-07-07;42000;Debitar;;;Comun
+jbetancur;Nequi;330;Hamburguesas(Aqua≠ esta incluida la de mi mama);2020-07-08;61500;Debitar;;;Comun
+jbetancur;Efectivo;331;Hamburguesa de mi mama;2020-07-08;17000;Acreditar;;;Comun
+jbetancur;Efectivo;332;Gastos de Koko;2020-07-08;8000;Acreditar;;;Comun
+jbetancur;Efectivo;333;Puntos de koko;2020-07-08;4000;Debitar;;;Comun
+jbetancur;Nequi;334;Crema de koko;2020-07-08;5200;Debitar;;;Comun
+jbetancur;Nequi;335;Deuda de mi mama;;;;;;Comun
+jbetancur;Nequi;336;Deuda de mi papa;;;;;;Comun
+jbetancur;Efectivo;337;Deuda de mi papa;;;;;;Comun
+jbetancur;Efectivo;338;Deuda de mi mama;;;;;;Comun
+jbetancur;Nequi;339;Recarga de Mario;2020-07-09;6000;Debitar;;;Comun
+jbetancur;Efectivo;340;Recarga para Mario;2020-07-09;6000;Acreditar;;;Comun
+jbetancur;Efectivo;341;Pago deudas de mi papa;;;;;;Comun
+jbetancur;Efectivo;342;Liga barbero;2020-07-11;2000;Debitar;;;Comun
+jbetancur;Nequi;343;Barberia;2020-07-11;18000;Debitar;;;Comun
+jbetancur;Efectivo;344;Gasolina;2020-07-11;15000;Debitar;;;Comun
+jbetancur;Efectivo;345;CDT;2020-07-11;3000000;Debitar;;;Comun
+jbetancur;Efectivo;346;Pago Deuda Universidad;2020-07-11;189000;Acreditar;;;Comun
+jbetancur;Nequi;347;Ajuste de la plata para el CDT;2020-07-11;27000;Debitar;;;Comun
+jbetancur;Efectivo;348;Ajuste de la plata para el CDT;2020-07-11;27000;Debitar;;;Comun
+jbetancur;Nequi;349;Pago cita del papito(Luz Dary me debe la plata);2020-07-14;3400;Debitar;;;Comun
+jbetancur;Efectivo;350;Prestamo a mi mama para pagar un tapabocas;2020-07-14;18000;Debitar;;;Comun
+jbetancur;Efectivo;351;Pago de las citas del papito y de la tia;2020-07-15;7000;Acreditar;;;Comun
+jbetancur;Nequi;352;Pago cita de la tia;2020-07-15;3400;Debitar;;;Comun
+jbetancur;Nequi;353;Pago Factura UNE Gerardo;2020-07-16;234570;Debitar;;;Comun
+jbetancur;Efectivo;354;Cabanos de Koko;2020-07-16;5000;Debitar;;;Comun
+jbetancur;Nequi;355;Nomina 20 de Julio;2020-07-17;598541;Acreditar;;;Comun
+jbetancur;Efectivo;356;Pago Factura une Gerardo;2020-07-17;234570;Acreditar;;;Comun
+jbetancur;Efectivo;357;Alitas de pollo;2020-07-18;14000;Debitar;;;Comun
+jbetancur;Efectivo;358;Mariachis;2020-07-21;2000;Debitar;;;Comun
+jbetancur;Efectivo;359;Afeitadora;2020-07-22;210000;Debitar;;;Comun
+jbetancur;Efectivo;360;Prestamo a mama para comprar un enlatado;2020-07-23;4700;Debitar;;;Comun
+jbetancur;Efectivo;361;Bocatto;2020-07-23;7000;Debitar;;;Comun
+jbetancur;Efectivo;362;Impresiones de geoagro;2020-07-23;9000;Debitar;;;Comun
+jbetancur;Efectivo;363;Prestamo a mi mama;2020-07-26;8000;Debitar;;;Comun
+jbetancur;Efectivo;364;Recarga a Mario;2020-07-26;5000;Acreditar;;;Comun
+jbetancur;Nequi;365;Recargaa a Mario;2020-07-26;5000;Debitar;;;Comun
+jbetancur;Efectivo;366;Taxis autenticacion;2020-07-27;10000;Debitar;;;Comun
+jbetancur;Nequi;367;Autenticacion;2020-07-27;35000;Acreditar;;;Comun
+jbetancur;Efectivo;368;Autenticacion;2020-07-27;35000;Debitar;;;Comun
+jbetancur;Efectivo;369;Helado;2020-07-27;20000;Debitar;;;Comun
+jbetancur;Efectivo;370;Retiro nequi;2020-07-27;200000;Acreditar;;;Comun
+jbetancur;Efectivo;371;Deuda de mama;2020-07-27;33000;Acreditar;;;Comun
+jbetancur;Nequi;372;Retiro gastos vuelta de Julian;2020-07-27;200000;Debitar;;;Comun
+jbetancur;Efectivo;373;Mariachis;2020-07-27;2000;Debitar;;;Comun
+jbetancur;Efectivo;374;Cera y otras cosas;2020-07-28;80000;Debitar;;;Comun
+jbetancur;Efectivo;375;Prestamo a mi mama, para pagarle a Wendy;2020-07-28;42000;Debitar;;;Comun
+jbetancur;Efectivo;376;PAGO DEUDA DE MI MAMA;2020-07-30;42000;Acreditar;;;Comun
+jbetancur;Efectivo;377;PAGO DEUDA DE LA ABUELA;2020-07-30;160000;Acreditar;;;Comun
+jbetancur;Efectivo;378;Mercado de mario_PAGO DEUDA;2020-07-30;200000;Acreditar;;;Comun
+jbetancur;Nequi;379;Prestamo a mi mama para mercado de mario;2020-07-30;200000;Debitar;;;Comun
+jbetancur;Nequi;380;Fritadora de Aire;2020-07-30;96000;Debitar;;;Comun
+jbetancur;Nequi;381;Pago movistar mama;2020-08-02;28000;Debitar;;;Comun
+jbetancur;Nequi;382;Prestamo a mi Mama;2020-08-02;187900;Debitar;;;Comun
+jbetancur;Nequi;383;Pago de Julian gastos de la notaria;2020-08-03;36000;Acreditar;;;Comun
+jbetancur;Nequi;384;Prestamo a mama(5000 son de la gasolina);2020-08-03;20000;Debitar;;;Comun
+jbetancur;Efectivo;385;Gaseosa;2020-08-03;3100;Debitar;;;Comun
+jbetancur;Efectivo;386;Autenticacion;2020-08-03;22500;Debitar;;;Comun
+jbetancur;Nequi;387;Cajero;2020-08-03;6000;Acreditar;;;Comun
+jbetancur;Efectivo;388;Cajero Papa;2020-08-03;6000;Debitar;;;Comun
+jbetancur;Efectivo;389;Gasolina;2020-08-03;5000;Debitar;;;Comun
+jbetancur;Efectivo;390;Parqueadero Notaria;2020-08-03;3400;Debitar;;;Comun
+jbetancur;Efectivo;391;Fotocopias;2020-08-03;12870;Debitar;;;Comun
+jbetancur;Efectivo;392;Consignacion para nequi;2020-08-03;450000;Debitar;;;Comun
+jbetancur;Nequi;393;Consignacion Nequi;2020-08-03;450000;Acreditar;;;Comun
+jbetancur;Efectivo;394;Pago parte deudas mama;2020-08-03;16000;Acreditar;;;Comun
+jbetancur;Nequi;395;Pago parte deudas mama;2020-08-03;200000;Acreditar;;;Comun
+jbetancur;Efectivo;396;Liga del Papito;2020-08-04;20000;Acreditar;;;Comun
+jbetancur;Nequi;397;Seguro del carro(Se divide entre los tres);2020-08-04;104000;Debitar;;;Comun
+jbetancur;Nequi;398;Pago de la Nomina Agosto 5;2020-08-05;1419929;Acreditar;;;Comun
+jbetancur;Nequi;399;Pago del semestre 2020-2;2020-08-05;1188000;Debitar;;;Comun
+jbetancur;Nequi;400;Primera Cuota Abono de la Universidad 2020-2;2020-08-05;200000;Acreditar;;;Comun
+jbetancur;Nequi;401;Seguro del Carro(Abono de los dos);2020-08-05;68000;Acreditar;;;Comun
+jbetancur;Efectivo;402;Aporte de Julian Al pollo;2020-08-06;20000;Acreditar;;;Comun
+jbetancur;Efectivo;403;Deuda Mama;2020-08-06;15000;Acreditar;;;Comun
+jbetancur;Efectivo;404;Ensalada Pollo;2020-08-06;8000;Debitar;;;Comun
+jbetancur;Efectivo;405;Tostao;2020-08-06;20000;Debitar;;;Comun
+jbetancur;Efectivo;406;Ensalada Pollo;2020-08-06;100000;Acreditar;;;Comun
+jbetancur;Nequi;407;Ensalada Pollo;2020-08-06;100000;Debitar;;;Comun
+jbetancur;Nequi;408;Pollo Frisby;2020-08-06;93700;Debitar;;;Comun
+jbetancur;Nequi;409;Pago Factura Movistar;2020-08-06;28598;Debitar;;;Comun
+jbetancur;Nequi;410;Jabonera;2020-08-11;5500;Debitar;;;Comun
+jbetancur;Efectivo;411;Parte pago deuda PCFK mama;2020-08-11;150000;Acreditar;;;Comun
+jbetancur;Nequi;412;Prestamo a mi mama para factura PCFK;2020-08-11;177500;Debitar;;;Comun
+jbetancur;Nequi;413;Pastel de pollo cocorollo;2020-08-12;21000;Debitar;;;Comun
+jbetancur;Efectivo;414;Bananos;2020-08-12;3000;Debitar;;;Comun
+jbetancur;Efectivo;415;Prestamo a mama para pagar Domicilio;2020-08-12;7000;Debitar;;;Comun
+jbetancur;Nequi;416;Deuda mama_PAGO JFK;2020-08-13;275200;Debitar;;;Comun
+jbetancur;Efectivo;417;Cabanos de koko;2020-08-13;8000;Debitar;;;Comun
+jbetancur;Efectivo;418;Deuda mama mazamorra;2020-08-13;2000;Debitar;;;Comun
+jbetancur;Nequi;419;Pago de deudas de mi papa, incluido el vidrio templado;2020-08-14;55000;Acreditar;;;Comun
+jbetancur;Nequi;420;Deuda de Santiago Ramirez;2020-08-14;55000;Acreditar;;;Comun
+jbetancur;Nequi;421;Platzi Cursos_Jirafa me debe 54500;2020-08-14;109000;Debitar;;;Comun
+jbetancur;Nequi;422;Devuelta de mi mama;2020-08-14;38000;Debitar;;;Comun
+jbetancur;Nequi;423;Pago deuda mi mama_DEVUELTA 38000;2020-08-14;400000;Acreditar;;;Comun
+jbetancur;Efectivo;424;Domicilio Lagrimales;2020-08-14;30000;Debitar;;;Comun
+jbetancur;Efectivo;425;Deuda mama;2020-08-14;50000;Debitar;;;Comun
+jbetancur;Efectivo;426;Deuda de Papa;2020-08-14;5000;Debitar;;;Comun
+jbetancur;Efectivo;427;Pago de la polla_ de mi Papa_ME LOS DEBE;2020-08-14;10000;Debitar;;;Comun
+jbetancur;Efectivo;428;Pago de la polla;2020-08-14;10000;Debitar;;;Comun
+jbetancur;Efectivo;429;Ingredientes cafe helado;2020-08-15;5000;Debitar;;;Comun
+jbetancur;Nequi;430;Hamburguesas;2020-08-16;34000;Debitar;;;Comun
+jbetancur;Efectivo;431;Prestamo a mi mama;2020-08-17;20000;Debitar;;;Comun
+jbetancur;Nequi;432;Prestamo a mi mama,para transferir a Wendy;2020-08-18;37000;Debitar;;;Comun
+jbetancur;Nequi;433;Motilada, Gasolina y Otros, RETIRO;2020-08-19;80000;Debitar;;;Comun
+jbetancur;Efectivo;434;Motilada, Gasolina y Otros, RETIRO;2020-08-19;80000;Acreditar;;;Comun
+jbetancur;Efectivo;435;Motilada;2020-08-19;20000;Debitar;;;Comun
+jbetancur;Efectivo;436;;2020-08-19;20000;Acreditar;;;Comun
+jbetancur;Efectivo;437;Prestamo a mi mama,para el enva≠o de la maquina de Mario;2020-08-19;11000;Debitar;;;Comun
+jbetancur;Efectivo;438;Gasolina;2020-08-19;15000;Debitar;;;Comun
+jbetancur;Efectivo;439;Gasolina;2020-08-21;4000;Debitar;;;Comun
+jbetancur;Efectivo;440;Prestamo a mi mama;2020-08-21;50000;Debitar;;;Comun
+jbetancur;Nequi;441;Prestamo a mi mama;2020-08-21;30000;Debitar;;;Comun
+jbetancur;Nequi;442;Prestamo a mi mama para Buratino;2020-08-21;140000;Debitar;;;Comun
+jbetancur;Nequi;443;Adaptador para el monitor;2020-08-21;28300;Debitar;;;Comun
+jbetancur;Nequi;444;Gastos para la finca de Wendy;2020-08-22;120000;Debitar;;;Comun
+jbetancur;Efectivo;445;Gastos para la finca de Wendy;2020-08-22;120000;Acreditar;;;Comun
+jbetancur;Efectivo;446;Deuda pendiente de Wilmar, vidrio templado;2020-08-22;10000;Acreditar;;;Comun
+jbetancur;Efectivo;447;Arepas de hugo;2020-08-23;40000;Debitar;;;Comun
+jbetancur;Efectivo;448;Gastos de la Finca de Wendy;2020-08-24;37000;Debitar;;;Comun
+jbetancur;Efectivo;449;Gasolina;2020-08-25;10000;Debitar;;;Comun
+jbetancur;Nequi;450;Retiro nequi;2020-08-25;20000;Debitar;;;Comun
+jbetancur;Efectivo;451;Retiro nequi;2020-08-25;20000;Acreditar;;;Comun
+jbetancur;Efectivo;452;Gastos en Dollar City;2020-08-25;16050;Debitar;;;Comun
+jbetancur;Efectivo;453;Favor al gordo;2020-08-25;10000;Acreditar;;;Comun
+jbetancur;Efectivo;454;Papas;2020-08-26;1400;Debitar;;;Comun
+jbetancur;Nequi;455;Pago de la Factura UNE Agosto;2020-08-27;82002;Debitar;;;Comun
+jbetancur;Efectivo;456;Quipitos;2020-08-27;4000;Debitar;;;Comun
+jbetancur;Nequi;457;Compra AliExpress,incluido el estuche de mi mama;2020-08-28;47858;Debitar;;;Comun
+jbetancur;Nequi;458;Mercado de Mario;2020-08-28;210806;Debitar;;;Comun
+jbetancur;Efectivo;459;Prestamo a ma≠ mama para las hamburguesas;2020-08-28;45000;Debitar;;;Comun
+jbetancur;Nequi;460;Prestamo a ma≠ mama para carne y revuelto;2020-08-29;400000;Debitar;;;Comun
+jbetancur;Nequi;461;Gastos;2020-08-29;10000;Debitar;;;Comun
+jbetancur;Efectivo;462;Gastos;2020-08-29;10000;Acreditar;;;Comun
+jbetancur;Nequi;463;Abono deuda mama;2020-08-29;77000;Acreditar;;;Comun
+jbetancur;Nequi;464;Pago Deuda de la abuela;2020-08-29;211000;Acreditar;;;Comun
+jbetancur;Nequi;465;Prestamo a ma≠ mama para pagar la flor de Maite;2020-08-30;13000;Debitar;;;Comun
+jbetancur;Nequi;466;Cafe en grano de tostao;2020-08-30;18000;Debitar;;;Comun
+jbetancur;Efectivo;467;Flores de Maite;2020-08-30;13000;Debitar;;;Comun
+jbetancur;Nequi;468;Compra del Cable VGA ;2020-08-30;53200;Debitar;;;Comun
+jbetancur;Nequi;469;Retiro;2020-08-31;46000;Debitar;;;Comun
+jbetancur;Efectivo;470;Retiro;2020-08-31;46000;Acreditar;;;Comun
+jbetancur;Nequi;471;Uber ;2020-08-31;6610;Debitar;;;Comun
+jbetancur;Efectivo;472;Deuda del gordo pago del UBER de ida;2020-08-31;7200;Acreditar;;;Comun
+jbetancur;Nequi;473;Pago de la liquidacion;2020-08-31;2218330;Acreditar;;;Comun
+jbetancur;Nequi;474;Pago de la cita medica de mi mama;2020-09-01;3400;Debitar;;;Comun
+jbetancur;Efectivo;475;SUSHI;2020-09-01;41200;Debitar;;;Comun
+jbetancur;Efectivo;476;Impresiones contrato y caja social_Paletas;2020-09-01;8100;Debitar;;;Comun
+jbetancur;Efectivo;477;Alcancia;2020-09-01;9000;Debitar;;;Comun
+jbetancur;Nequi;478;Pago deudas de mi mama;2020-09-01;676900;Acreditar;;;Comun
+jbetancur;Nequi;479;Saldo a favor de mi mama;2020-09-01;323100;Acreditar;;;Comun
+jbetancur;Nequi;480;Shampoo;2020-09-01;45000;Debitar;;;Comun
+jbetancur;Nequi;481;Consignacion mama(BOLSILLO SALDO MAMaÅ);2020-09-01;80000;Debitar;;;Comun
+jbetancur;Nequi;482;Consignacion Mama(BOLSILLO SALDO MAMaÅ);2020-09-01;50000;Debitar;;;Comun
+jbetancur;Nequi;483;Consignacion mama (BOLSILLO SALDO MAMaÅ);2020-09-01;30000;Debitar;;;Comun
+jbetancur;Nequi;484;Consignacion mama(BOLSILLO SALDO MAMaÅ);2020-09-01;40000;Debitar;;;Comun
+jbetancur;Nequi;485;Prestamo a mi mama para pagar en JFK;2020-09-01;152100;Debitar;;;Comun
+jbetancur;Nequi;486;Pago JFK mama(BOLSILLO SALDO MAMaÅ);2020-09-01;123100;Debitar;;;Comun
+jbetancur;Efectivo;487;9mil de chocolatinas y 1mil pa la alcanca≠a;2020-09-02;10000;Debitar;;;Comun
+jbetancur;Nequi;488;Prestamo a ma≠ mama para consignacion Valentina Gomez;2020-09-02;130000;Debitar;;;Comun
+jbetancur;Nequi;489;Pago Factura Movistar;2020-09-03;33988;Debitar;;;Comun
+jbetancur;Nequi;490;Prestamo a mi mama para pagarle a Wendy;2020-09-04;17000;Debitar;;;Comun
+jbetancur;Nequi;491;Abono deuda papa;2020-09-04;50000;Acreditar;;;Comun
+jbetancur;Nequi;492;Prestamo a la abuela por recarga al celular;2020-09-04;5000;Debitar;;;Comun
+jbetancur;Nequi;493;Pago de la orden medica de la abuela;2020-09-05;3400;Debitar;;;Comun
+jbetancur;Nequi;494;Deuda mama por pago factura Movistar;2020-09-05;33000;Debitar;;;Comun
+jbetancur;Efectivo;495;Liga del papito;2020-09-05;20000;Acreditar;;;Comun
+jbetancur;Nequi;496;Pago de los servicios del Papito;2020-09-05;110000;Debitar;;;Comun
+jbetancur;Nequi;497;Pago Factura UNE del Papito;2020-09-05;234000;Debitar;;;Comun
+jbetancur;Efectivo;498;Abono deudas de mi mama;2020-09-05;230000;Acreditar;;;Comun
+jbetancur;Efectivo;499;Plata que ingresa en efectivo desde nequi, esto corresponde al pago de la factura de UNE y de EPM del Papito;2020-09-05;344000;Acreditar;;;Comun
+jbetancur;Efectivo;500;Prestamo a ma≠ mama;2020-09-05;30000;Debitar;;;Comun
+jbetancur;Nequi;501;Recarga de Pedro;2020-09-05;10000;Debitar;;;Comun
+jbetancur;Efectivo;502;Recarga de Pedro;2020-09-05;10000;Acreditar;;;Comun
+jbetancur;Nequi;503;Deudas pendiente de la abuela;2020-09-05;8400;Acreditar;;;Comun
+jbetancur;Nequi;504;Abono deudas de mi mama;2020-09-05;70000;Acreditar;;;Comun
+jbetancur;Efectivo;505;Aspirina;2020-09-05;2000;Debitar;;;Comun
+jbetancur;Efectivo;506;Pago de las dos deudas pendiente de mi mama;2020-09-06;63000;Acreditar;;;Comun
+jbetancur;Nequi;507;7.500 de cola&Pola y Gatorade, 500 pa la alcanca≠a;2020-09-06;8000;Debitar;;;Comun
+jbetancur;Efectivo;508;Parqueadero;2020-09-07;5700;Debitar;;;Comun
+jbetancur;Efectivo;509;Gasolina;2020-09-07;10000;Debitar;;;Comun
+jbetancur;Efectivo;510;Gasolina;2020-09-07;10000;Debitar;;;Comun
+jbetancur;Efectivo;511;Multipuerto usb;2020-09-07;20000;Debitar;;;Comun
+jbetancur;Efectivo;512;Pasteles de guayaba;2020-09-07;5000;Debitar;;;Comun
+jbetancur;Nequi;513;Seguro del Carro;2020-09-08;34000;Debitar;;;Comun
+jbetancur;Nequi;514;Prestamo a mi PAPaÅ y a mi MAMaÅ para pagar el seguro del carro;2020-09-08;68000;Debitar;;;Comun
+jbetancur;Nequi;515;Pago cita medica mama;2020-09-09;3400;Debitar;;;Comun
+jbetancur;Efectivo;516;Prestamo de la abuela para pagarle a chucho;2020-09-10;100000;Debitar;;;Comun
+jbetancur;Efectivo;517;Prestamo a la abuela para pagarle a Chucho;2020-09-11;200000;Debitar;;;Comun
+jbetancur;Nequi;518;Pago de las deudas de la abuela;2020-09-11;310000;Acreditar;;;Comun
+jbetancur;Nequi;519;Pago deuda del seguro papa;2020-09-11;34000;Acreditar;;;Comun
+jbetancur;Efectivo;520;CDT PARTE 1 (200.000 mil Pesos, son de la deuda de la Universidad);2020-09-12;500000;Debitar;;;Comun
+jbetancur;Nequi;521;CDT PARTE 2;2020-09-12;1800000;Debitar;;;Comun
+jbetancur;Nequi;522;CDT PARTE 3;2020-09-12;500000;Debitar;;;Comun
+jbetancur;Nequi;523;Gasolina y 10mil que le deba≠a a ma≠ mama;2020-09-12;20000;Debitar;;;Comun
+jbetancur;Nequi;524;Dinero que le deba≠a a ma≠ mama;2020-09-13;7000;Debitar;;;Comun
+jbetancur;Nequi;525;Granizados;2020-09-13;30000;Debitar;;;Comun
+jbetancur;Nequi;526;Pago deuda papa del seguro del carro ;2020-09-14;34000;Acreditar;;;Comun
+jbetancur;Caja Social;527;Nomina Septiembre 15;2020-09-15;355698;Acreditar;;;Comun
+jbetancur;Caja Social;528;Paso de Dinero de Caja Social a Nequi;2020-09-16;330698;Debitar;;;Comun
+jbetancur;Nequi;529;Paso de Dinero Caja Social a Nequi;2020-09-16;330698;Acreditar;;;Comun
+jbetancur;Nequi;530;Pago de la cuota del carro;2020-09-16;155000;Debitar;;;Comun
+jbetancur;Nequi;531;Prestamo a ma≠ mama para revuelto;2020-09-16;20000;Debitar;;;Comun
+jbetancur;Nequi;532;Recarga de Celular a la abuela;2020-09-16;5000;Debitar;;;Comun
+jbetancur;Efectivo;533;Abono deuda mama;2020-09-16;10000;Acreditar;;;Comun
+jbetancur;Efectivo;534;Gasolina;2020-09-16;10000;Debitar;;;Comun
+jbetancur;Efectivo;535;Deuda pendiente de la abuela;2020-09-18;5000;Acreditar;;;Comun
+jbetancur;Efectivo;536;Tocineta;2020-09-18;5000;Debitar;;;Comun
+jbetancur;Nequi;537;Devolucion del dinero, vidrio templado de Laura;2020-09-21;7000;Acreditar;;;Comun
+jbetancur;Nequi;538;Prestamo a mama para comprar zapatos;2020-09-22;33132;Debitar;;;Comun
+jbetancur;Nequi;539;Prestamo a mi mama para pagar pacifika;2020-09-22;228000;Debitar;;;Comun
+jbetancur;Nequi;540;Pago de los Servicios UNE;2020-09-22;82330;Debitar;;;Comun
+jbetancur;Nequi;541;Pedido novaventa;2020-09-23;12048;Debitar;;;Comun
+jbetancur;Caja Social;542;Paso de Caja Social a Nequi;2020-09-23;25000;Debitar;;;Comun
+jbetancur;Nequi;543;Paso de Caja Social a Nequi;2020-09-23;25000;Acreditar;;;Comun
+jbetancur;Nequi;544;Prestamo a ma≠ mama para pagarle a Wendy;2020-09-23;37500;Debitar;;;Comun
+jbetancur;Nequi;545;Prestamo a mi papa;2020-09-24;3012;Debitar;;;Comun
+jbetancur;Nequi;546;Pago uber;2020-09-25;6927;Debitar;;;Comun
+jbetancur;Nequi;547;Retiro Nequi a efectivo;2020-09-25;20000;Debitar;;;Comun
+jbetancur;Efectivo;548;Retiro Nequi a efectivo;2020-09-25;20000;Acreditar;;;Comun
+jbetancur;Nequi;549;Recarga celular Pedro;2020-09-25;10000;Debitar;;;Comun
+jbetancur;Efectivo;550;Pago recarga celular Pedro;2020-09-25;10000;Acreditar;;;Comun
+jbetancur;Nequi;551;Retiro para almuerzo;2020-09-27;100400;Debitar;;;Comun
+jbetancur;Efectivo;552;Retiro Nequi para almuerzo;2020-09-27;100000;Acreditar;;;Comun
+jbetancur;Efectivo;553;Almuerzo Hacienda Napoles;2020-09-27;72600;Debitar;;;Comun
+jbetancur;Efectivo;554;La≠quidos Hacienda Napoles;2020-09-27;13500;Debitar;;;Comun
+jbetancur;Efectivo;555;Alcanca≠a;2020-09-29;900;Debitar;;;Comun
+jbetancur;Efectivo;556;Funcion cajero con mi mama;2020-09-29;40000;Debitar;;;Comun
+jbetancur;Nequi;557;Funcion cajero con mi mama;2020-09-29;40000;Acreditar;;;Comun
+jbetancur;Caja Social;558;Nomina del 30 de Octubre;2020-10-01;362607;Acreditar;;;Comun
+jbetancur;Caja Social;559;Paso de Caja social a Nequi;2020-10-02;122000;Debitar;;;Comun
+jbetancur;Nequi;560;Paso de Caja social a Nequi;2020-10-02;122000;Acreditar;;;Comun
+jbetancur;Efectivo;561;Harina de trigo;2020-10-02;2000;Debitar;;;Comun
+jbetancur;Nequi;562;Didi vuelta Davivienda,me lo Pagan en nomina;2020-10-02;6004;Debitar;;;Comun
+jbetancur;Nequi;563;Arepa de Hugo,mi mama me los debe;2020-10-02;12000;Debitar;;;Comun
+jbetancur;Nequi;564;Gaseosa y domicilio arepas hugos;2020-10-02;5000;Debitar;;;Comun
+jbetancur;Efectivo;565;Pago Arepa de Hugos, mama;2020-10-02;12000;Acreditar;;;Comun
+jbetancur;Efectivo;566;Prestamo a mi mama para Didi;2020-10-03;10000;Debitar;;;Comun
+jbetancur;Nequi;567;Pago deudas pendientes de mi mama;2020-10-03;343000;Acreditar;;;Comun
+jbetancur;Nequi;568;Seguro del carro;2020-10-03;34000;Debitar;;;Comun
+jbetancur;Nequi;569;Prestamo a mi papa para el seguro del carro;2020-10-03;36000;Debitar;;;Comun
+jbetancur;Nequi;570;Granizados;2020-10-03;13000;Debitar;;;Comun
+jbetancur;Caja Social;571;Paso de Caja Social a Nequi;2020-10-05;93000;Debitar;;;Comun
+jbetancur;Nequi;572;Paso de Caja Social a Nequi;2020-10-05;93000;Acreditar;;;Comun
+jbetancur;Nequi;573;Factura Movistar;2020-10-05;33988;Debitar;;;Comun
+jbetancur;Caja Social;574;Paso de Caja Social a nequi;2020-10-07;142607;Debitar;;;Comun
+jbetancur;Nequi;575;Paso de Caja Social a nequi;2020-10-07;142608;Acreditar;;;Comun
+jbetancur;Nequi;576;Retiro ;2020-10-07;70000;Debitar;;;Comun
+jbetancur;Efectivo;577;Retiro;2020-10-07;70000;Acreditar;;;Comun
+jbetancur;Efectivo;578;Ajuste Quesito;2020-10-07;1000;Debitar;;;Comun
+jbetancur;Efectivo;579;Sushi;2020-10-07;61999;Debitar;;;Comun
+jbetancur;Efectivo;580;Polvo Magico;2020-10-08;10001;Debitar;;;Comun
+jbetancur;Nequi;581;Pago deudas de mi papa(Seguro del carro,deuda vieja, y 300);2020-10-09;89000;Acreditar;;;Comun
+jbetancur;Nequi;582;Abono deuda universidad;2020-10-09;200000;Acreditar;;;Comun
+jbetancur;Nequi;583;Prestamo a mi papa para pagar la cita medica;2020-10-09;3400;Debitar;;;Comun
+jbetancur;Efectivo;584;Liga del papito;2020-10-10;20000;Acreditar;;;Comun
+jbetancur;Efectivo;585;Barquillos y chicharrones d1;2020-10-10;11350;Debitar;;;Comun
+jbetancur;Efectivo;586;Bombas prestamo mama;2020-10-10;6000;Debitar;;;Comun
+jbetancur;Nequi;587;Cafe;2020-10-10;22700;Debitar;;;Comun
+jbetancur;Efectivo;588;Ganamos de koko;2020-10-11;2000;Debitar;;;Comun
+jbetancur;Nequi;589;Retiro Nequi a efectivo;2020-10-11;100000;Debitar;;;Comun
+jbetancur;Efectivo;590;Retiro Nequi a efectivo;2020-10-11;100000;Acreditar;;;Comun
+jbetancur;Efectivo;591;Almuerzo;2020-10-11;50000;Debitar;;;Comun
+jbetancur;Caja Social;592;PAGO NOMINA 15 DE OCTUBRE;2020-10-15;1293837;Acreditar;;;Comun
+jbetancur;Caja Social;593;PASO DE CAJA SOCIAL A NEQUI;2020-10-16;200000;Debitar;;;Comun
+jbetancur;Nequi;594;PASO DE CAJA SOCIAL A NEQUI;2020-10-16;200000;Acreditar;;;Comun
+jbetancur;Nequi;595;Pago de la chaqueta de Silvia;2020-10-16;23000;Debitar;;;Comun
+jbetancur;Nequi;596;PAGO CUOTA DEL CARRO;2020-10-16;92420;Debitar;;;Comun
+jbetancur;Nequi;597;Shampoo alisador;2020-10-17;16000;Debitar;;;Comun
+jbetancur;Efectivo;598;Prestamo a mi mama para comprar material de la tumbada de la COCINA;2020-10-17;51000;Debitar;;;Comun
+jbetancur;Nequi;599;Hamburguesas;2020-10-17;34000;Debitar;;;Comun
+jbetancur;Nequi;600;PAGO DE LOS SERVICIOS UNE;2020-10-19;82000;Debitar;;;Comun
+jbetancur;Caja Social;601;Horno para la cocina;2020-10-23;500000;Debitar;;;Comun
+jbetancur;Caja Social;602;Prestamo a mi mama para el horno;2020-10-23;165000;Debitar;;;Comun
+jbetancur;Nequi;603;Arepa Hugo;2020-10-23;13000;Debitar;;;Comun
+jbetancur;Nequi;604;Motilada, Gasolina y MI PAPaÅ ME DEBE 5.000$;2020-10-24;40000;Debitar;;;Comun
+jbetancur;Nequi;605;Arroz paisa;2020-10-26;30000;Debitar;;;Comun
+jbetancur;Nequi;606;Prestamo a la abuela para los arcos de chuchos;2020-10-28;181000;Debitar;;;Comun
+jbetancur;Caja Social;607;Nomina del 30 de OCTUBRE;2020-10-30;292327;Acreditar;;;Comun
+jbetancur;Nequi;608;Prestamo a ma≠ papa para comprar mcflury;2020-11-02;16800;Debitar;;;Comun
+jbetancur;Nequi;609;Seguro del Carro;2020-11-05;34000;Debitar;;;Comun
+jbetancur;Nequi;610;Prestamo a mama para pagar el seguro del carro;2020-11-05;34000;Debitar;;;Comun
+jbetancur;Nequi;611;Prestamo a mi papa para pagar el Seguro del carro;2020-11-05;36000;Debitar;;;Comun
+jbetancur;Nequi;612;Pago de la Factura Movistar Octubre;2020-11-05;33988;Debitar;;;Comun
+jbetancur;Nequi;613;ABONO DEUDA DE LA UNIVERSIDAD;2020-11-05;200000;Acreditar;;;Comun
+jbetancur;Nequi;614;Pago Deuda mama Seguro del Carro;2020-11-05;34000;Acreditar;;;Comun
+jbetancur;Nequi;615;Pago Deuda papa Seguro del Carro;2020-11-05;34000;Acreditar;;;Comun
+jbetancur;Nequi;616;Consulta de Koko(SE DIVIDE ENTRE LOS 3);2020-11-06;42000;Debitar;;;Comun
+jbetancur;Nequi;617;Retiro de Nequi a efectivo;2020-11-06;51000;Debitar;;;Comun
+jbetancur;Efectivo;618;Retiro de Nequi a efectivo;2020-11-06;50000;Acreditar;;;Comun
+jbetancur;Efectivo;619;Cubiertero, ME LO DEBE MI MAMA;2020-11-06;6000;Debitar;;;Comun
+jbetancur;Efectivo;620;Burbujas en Dollar City;2020-11-06;14000;Debitar;;;Comun
+jbetancur;Efectivo;621;Liga del papito;2020-11-06;20000;Acreditar;;;Comun
+jbetancur;Nequi;622;Cafe en grano;2020-11-06;22700;Debitar;;;Comun
+jbetancur;Nequi;623;Ecografia de Koko(SE REPARTE ENTRE LOS TRES);2020-11-07;85000;Debitar;;;Comun
+jbetancur;Nequi;624;Decoracion Cumpleaa±os Mama;2020-11-07;55200;Debitar;;;Comun
+jbetancur;Nequi;625;Hamburguesa;2020-11-03;7500;Debitar;;;Comun
+jbetancur;Efectivo;626;Retiro de Nequi a Efectivo ;2020-11-07;200000;Acreditar;;;Comun
+jbetancur;Nequi;627;Retiro de Nequi a Efectivo ;2020-11-07;200000;Debitar;;;Comun
+jbetancur;Efectivo;628;Faja Regalo Mama;2020-11-07;82900;Debitar;;;Comun
+jbetancur;Efectivo;629;Helado de Florida;2020-11-07;10600;Debitar;;;Comun
+jbetancur;Efectivo;630;Blusa Regalo de Mi mama;2020-11-07;69900;Debitar;;;Comun
+jbetancur;Nequi;631;Auda≠fonos;2020-11-07;55000;Debitar;;;Comun
+jbetancur;Nequi;632;Molino electrico;2020-11-08;167800;Debitar;;;Comun
+jbetancur;Nequi;633;Prestamo a ma≠ mama para pagar en buratino;2020-11-09;45000;Debitar;;;Comun
+jbetancur;Efectivo;634;Cable Auxiliar;2020-11-10;5000;Debitar;;;Comun
+jbetancur;Nequi;635;Regalo de mi mama parte 3;2020-11-11;30000;Debitar;;;Comun
+jbetancur;Caja Social;636;Salario del 15 de Noviembre;2020-11-13;1017994;Acreditar;;;Comun
+jbetancur;Efectivo;637;Prestamo a mi mama para comprar Ron;2020-11-14;50000;Debitar;;;Comun
+jbetancur;Nequi;638;Papitas;2020-11-15;34500;Debitar;;;Comun
+jbetancur;Nequi;639;Paso de Nequi a Efectivo;2020-11-15;100000;Debitar;;;Comun
+jbetancur;Efectivo;640;Paso de Nequi a Efectivo;2020-11-15;100000;Acreditar;;;Comun
+jbetancur;Efectivo;641;Retenedores;2020-11-16;100000;Debitar;;;Comun
+jbetancur;Efectivo;642;Taxi;2020-11-16;3600;Debitar;;;Comun
+jbetancur;Caja Social;643;Paso de Caja Social A Nequi;2020-11-17;255000;Debitar;;;Comun
+jbetancur;Nequi;644;Paso de Caja Social a Nequi;2020-11-17;255000;Acreditar;;;Comun
+jbetancur;Nequi;645;Pago cuota del Carro;2020-11-17;92420;Debitar;;;Comun
+jbetancur;Nequi;646;TALLER ESTADISTICA;2020-11-20;35000;Debitar;;;Comun
+jbetancur;Nequi;647;PAGO DEL PREDIAL DEL PAPITO(ME LO PAGAN EN EFECTIVO);2020-11-20;255175;Debitar;;;Comun
+jbetancur;Efectivo;648;PAGO IMPUESTO PREDIAL DEL PAPITO(PASO DE NEQUI A EFECTIVO);2020-11-20;255000;Acreditar;;;Comun
+jbetancur;Nequi;649;Prestamo a ma≠ papa para alumbrados (1);2020-11-21;180000;Debitar;;;Comun
+jbetancur;Efectivo;650;Prestamo a ma≠ papa para alumbrados (2);2020-11-21;250000;Debitar;;;Comun
+jbetancur;Efectivo;651;Papas;2020-11-21;20000;Debitar;;;Comun
+jbetancur;Caja Social;652;Paso de Caja social a Nequi;2020-11-23;762994;Debitar;;;Comun
+jbetancur;Nequi;653;Paso de Caja social a Nequi;2020-11-23;762994;Acreditar;;;Comun
+jbetancur;Nequi;654;Alumbrados;2020-11-23;60000;Debitar;;;Comun
+jbetancur;Nequi;655;PAGO FACTURA UNE;2020-11-24;82002;Debitar;;;Comun
+jbetancur;Nequi;656;Compras Aliexpress(Disco Duro,Audifonos);2020-11-24;164135;Debitar;;;Comun
+jbetancur;Nequi;657;Saldo Pendiente de Laura Compra Aliexpress;2020-11-24;7100;Debitar;;;Comun
+jbetancur;Nequi;658;Examen Estadistica;2020-11-25;5600;Debitar;;;Comun
+jbetancur;Efectivo;659;Prestamo a la abuela para comprar arepas;2020-11-27;10000;Debitar;;;Comun
+jbetancur;Nequi;660;Recarga a Pedro;2020-11-29;10000;Debitar;;;Comun
+jbetancur;Efectivo;661;Recarga a Pedro;2020-11-29;10000;Acreditar;;;Comun
+jbetancur;Nequi;662;Pago deuda de gloria Escobar;2020-11-29;180000;Acreditar;;;Comun
+jbetancur;Nequi;663;Carne asada;2020-11-28;17000;Debitar;;;Comun
+jbetancur;Nequi;664;Prestamo a mi papa para pagar Comfama;2020-11-30;400000;Debitar;;;Comun
+jbetancur;Nequi;665;Retirada para la motilada;2020-11-30;20000;Debitar;;;Comun
+jbetancur;Efectivo;666;Retirada para la motilada;2020-11-30;20000;Acreditar;;;Comun
+jbetancur;Efectivo;667;Motilada;2020-11-30;20000;Debitar;;;Comun
+jbetancur;Nequi;668;Plata que me dio mi mama para la gasolina;2020-11-30;5000;Acreditar;;;Comun
+jbetancur;Efectivo;669;Gasolina;2020-11-30;10000;Debitar;;;Comun
+jbetancur;Caja Social;670;Pago del 30 de Noviembre;2020-11-30;381054;Acreditar;;;Comun
+jbetancur;Nequi;671;SedanPet;2020-11-30;5000;Debitar;;;Comun
+jbetancur;Nequi;672;Pago de todas las Deudas Pendientes de mi mama hasta la fecha;2020-12-01;282900;Acreditar;;;Comun
+jbetancur;Nequi;673;Papas;2020-12-01;14000;Debitar;;;Comun
+jbetancur;Nequi;674;Pago de los servicios del Segundo Piso;2020-12-02;354247;Debitar;;;Comun
+jbetancur;Efectivo;675;Pago de los servicios del Segundo Piso;2020-12-02;355000;Acreditar;;;Comun
+jbetancur;Efectivo;676;Pago del seguro del carro;2020-12-02;34000;Debitar;;;Comun
+jbetancur;Efectivo;677;Cafe;2020-12-04;21000;Debitar;;;Comun
+jbetancur;Efectivo;678;Prestamo a la abuela para ropa de Mathias;2020-12-04;150000;Debitar;;;Comun
+jbetancur;Efectivo;679;Devuelta del cafe;2020-12-05;7000;Acreditar;;;Comun
+jbetancur;Nequi;680;Dinero que no se uso en el prestamo de la abuela, SE ANOTA COMO ABONO;2020-12-05;50000;Acreditar;;;Comun
+jbetancur;Efectivo;681;Granizados;2020-12-06;28000;Debitar;;;Comun
+jbetancur;Efectivo;682;Vick VapoRub;2020-12-07;2000;Debitar;;;Comun
+jbetancur;Nequi;683;Pago deuda de mi papa;2020-12-08;400000;Acreditar;;;Comun
+jbetancur;Nequi;684;Deuda de la abuela;2020-12-09;100000;Acreditar;;;Comun
+jbetancur;Efectivo;685;Arepas de Hugo;2020-12-09;38000;Debitar;;;Comun
+jbetancur;Nequi;686;Pasajes vuelta caja Social_Me los debe GEOAGRO;2020-12-11;23722;Debitar;;;Comun
+jbetancur;Nequi;687;Abono deuda Universidad;2020-12-02;200000;Acreditar;;;Comun
+jbetancur;Nequi;688;Pago de la factura de Movistar;2020-12-07;33887;Debitar;;;Comun
+jbetancur;Efectivo;689;Trenzas de Mi mama;2020-12-13;10000;Debitar;;;Comun
+jbetancur;Efectivo;690;Pase de Efectivo a Nequi;2020-12-14;20000;Debitar;;;Comun
+jbetancur;Nequi;691;Pase de Efectivo a Nequi;2020-12-13;20000;Acreditar;;;Comun
+jbetancur;Nequi;692;Prestamo a mi mama para pagar PCFK;2020-12-14;255000;Debitar;;;Comun
+jbetancur;Nequi;693;Pago de la Factura de Wendy plata de Luz Dary, Me la da en efectivo se le hace el pago a wendy;2020-12-14;30000;Debitar;;;Comun
+jbetancur;Efectivo;694;Dinero que me entrega Luz Dary, es del pago de la factura de Novaventa;2020-12-14;30000;Acreditar;;;Comun
+jbetancur;Nequi;695;Deuda de Novaventa;2020-12-14;22000;Debitar;;;Comun
+jbetancur;Nequi;696;Camisetas;2020-12-15;96000;Debitar;;;Comun
+jbetancur;Efectivo;697;Pizza;2020-12-16;40000;Debitar;;;Comun
+jbetancur;Nequi;698;Cuota del Carro;2020-12-17;92420;Debitar;;;Comun
+jbetancur;Nequi;699;Deuda pendiente de mi mama de la colita de la deuda del carro;2020-12-17;7500;Debitar;;;Comun
+jbetancur;Nequi;700;Cuota del paseo;2020-12-20;54000;Debitar;;;Comun
+jbetancur;Caja Social;701;Pago de la nomina, la prima y deuda de los taxis;2020-12-21;821863;Acreditar;;;Comun
+jbetancur;Nequi;702;Plata para comprar ropa y regalo de amigo secreto;2020-12-21;200000;Debitar;;;Comun
+jbetancur;Caja Social;703;Paso de Caja Social a Nequi;2020-12-21;640766;Debitar;;;Comun
+jbetancur;Nequi;704;Paso de Caja Social a Nequi;2020-12-21;640766;Acreditar;;;Comun
+jbetancur;Nequi;705;Pago Semestre de La universidad 2021-1;2020-12-21;1188881;Debitar;;;Comun
+jbetancur;Efectivo;706;Motilada;2020-12-22;10000;Debitar;;;Comun
+jbetancur;Nequi;707;Retiro de Nequi;2020-12-22;60000;Debitar;;;Comun
+jbetancur;Efectivo;708;Retiro de Nequi;2020-12-22;60000;Acreditar;;;Comun
+jbetancur;Efectivo;709;Consignacion a Nequi;2020-12-22;25000;Debitar;;;Comun
+jbetancur;Nequi;710;Consignacion a Nequi;2020-12-22;25000;Acreditar;;;Comun
+jbetancur;Efectivo;711;Pollo;2020-12-22;25000;Debitar;;;Comun
+jbetancur;Efectivo;712;Exfoliante y cera;2020-12-22;60000;Debitar;;;Comun
+jbetancur;Caja Social;713;Tintos;2020-12-23;6600;Debitar;;;Comun
+jbetancur;Nequi;714;"Devuelta de la Plata para comprar ropa y regalo de amigo secreto	";2020-12-23;24000;Acreditar;;;Comun
+jbetancur;Nequi;715;Pago Factura UNE;2020-12-28;82092;Debitar;;;Comun
+jbetancur;Efectivo;716;Regalo de Navidad del Papito;2020-12-27;60000;Acreditar;;;Comun
+jbetancur;Caja Social;717;Paso de Caja Social a Nequi;2020-12-28;11767;Debitar;;;Comun
+jbetancur;Nequi;718;Paso de Caja Social a Nequi;2020-12-28;11767;Acreditar;;;Comun
+jbetancur;Nequi;719;Antena Bluethoot;2020-12-28;30000;Debitar;;;Comun
+jbetancur;Caja Social;720;Nomina del 30 de Diciembre;2020-12-30;355698;Acreditar;;;Comun
+jbetancur;Caja Social;721;Paso de Caja Social a Nequi;2021-01-02;34300;Debitar;;;Comun
+jbetancur;Nequi;722;Paso de Caja Social a Nequi;2021-01-02;34300;Acreditar;;;Comun
+jbetancur;Nequi;723;Curso de Python;2021-01-02;34290;Debitar;;;Comun
+jbetancur;Nequi;724;Cuota Universidad Diciembre, Y 11.000 DE LA DEUDA VIEJITA;2021-01-02;200000;Acreditar;;;Comun
+jbetancur;Nequi;725;Parte credito de JFK DE MI PAPaÅ;2021-01-02;177300;Acreditar;;;Comun
+jbetancur;Efectivo;726;Deuda Viejita de mi papa;2021-01-02;4000;Acreditar;;;Comun
+jbetancur;Efectivo;727;Pago Deuda de Mi Mama De PCFK;2021-01-02;255000;Acreditar;;;Comun
+jbetancur;Nequi;728;Jarabe para la tos;2021-01-04;28500;Debitar;;;Comun
+jbetancur;Nequi;729;Pago del Seguro del Carro;2021-01-05;34000;Debitar;;;Comun
+jbetancur;Nequi;730;Pago Factura de Movistar;2021-01-05;33988;Debitar;;;Comun
+jbetancur;Nequi;731;PRESTAMO A MI MAMaÅ PARA PAGAR PACIFIKA;2021-01-05;150000;Debitar;;;Comun
+jbetancur;Caja Social;732;Paso de Caja Social a Nequi;2021-01-05;153000;Debitar;;;Comun
+jbetancur;Nequi;733;Paso de Caja Social a Nequi;2021-01-05;153000;Acreditar;;;Comun
+jbetancur;Nequi;734;Juego para PC Ark;2021-01-05;14000;Debitar;;;Comun
+jbetancur;Efectivo;735;Gasolina;2021-01-06;25000;Debitar;;;Comun
+jbetancur;Efectivo;736;Gastos en Santa Fe;2021-01-06;39000;Debitar;;;Comun
+jbetancur;Efectivo;737;GASOLINA;2021-01-13;10000;Debitar;;;Comun
+jbetancur;Efectivo;738;PRESTAMO A MI MAMaÅ PARA GASOLINA;2021-01-12;10000;Debitar;;;Comun
+jbetancur;Caja Social;739;Paso de Caja Social A Nequi;2021-01-12;22000;Debitar;;;Comun
+jbetancur;Nequi;740;Paso de Caja Social A Nequi;2021-01-12;22000;Acreditar;;;Comun
+jbetancur;Nequi;741;Retiro de Dinero Nequa≠;2021-01-12;22000;Debitar;;;Comun
+jbetancur;Efectivo;742;Retiro de Dinero Nequi;2021-01-12;22000;Acreditar;;;Comun
+jbetancur;Efectivo;743;Parqueadero y Otros Gastos;2021-01-12;14000;Debitar;;;Comun
+jbetancur;Caja Social;744;Subway;2021-01-12;36700;Debitar;;;Comun
+jbetancur;Nequi;745;PAGO DE LA CUOTA DEL CARRO;2021-01-13;92420;Debitar;;;Comun
+jbetancur;Efectivo;746;Lecherita y Otros;2021-01-15;14000;Debitar;;;Comun
+jbetancur;Caja Social;747;Abono de Nomina;2021-01-15;435348;Acreditar;;;Comun
